@@ -1,1 +1,1 @@
-# horiseo-code-refactor
+# horiseon-code-refactor
