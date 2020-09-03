@@ -14,6 +14,7 @@ Addionally I cleaned up some of the code, including:
 - Scaling images down in size, without hurting quality, so that the page would load faster
 - Condesing the css to make it more readable 
 - Cleaning up the html
+- Fixing a broken link
 
 ### Original Request by Horiseon
 
