@@ -9,7 +9,7 @@ I accomplished this by:
 - Adding a proper title to the page
 - Moving a background image to a regular image tag in order to allow for an atl attribute
 
-Addionally I cleaned up some of the code, including:
+Addionally, I cleaned up the codebase, including:
 
 - Scaling images down in size, without hurting quality, so that the page would load faster
 - Condesing the css to make it more readable 
