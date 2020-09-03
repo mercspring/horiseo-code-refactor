@@ -5,11 +5,12 @@ I accomplished this by:
 
 - Adding alt tags to the photos.
 - Adding semantic headings to the html
-- Adding a meta description tag so that the site would apear better in search engines
+- Adding a meta description tag so that the site would be described in search engine results
 - Adding a proper title to the page
 - Moving a background image to a regular image tag in order to allow for an atl attribute
+- Changing the heading structure
 
-Addionally, I cleaned up the codebase, including:
+Addionally, I cleaned up the codebase by:
 
 - Scaling images down in size, without hurting quality, so that the page would load faster
 - Condesing the css to make it more readable 

@@ -32,11 +32,11 @@ header nav {
     font-size: 20px;
 }
 
-header nav menu {
+header nav ul {
     list-style-type: none;
 }
 
-header nav menu li {
+header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -132,6 +132,8 @@ footer {
     text-align: center;
 }
 
-footer h2 {
+footer span{
+    display: block;
+    font-weight: bold;
     font-size: 20px;
 }
